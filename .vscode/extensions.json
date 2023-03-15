@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "oleg-shilo.cs-script",
+        "tock.vscode-css-custom-properties",
+        "denoland.vscode-deno",
+        "jeremyrajan.file-script-runner"
+    ]
+}
